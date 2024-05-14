@@ -1,11 +1,11 @@
 ﻿
 User user1 = new User();
 
-OwnList<ConsoleColor> consoleColors = new OwnList<ConsoleColor>();
-consoleColors.values.Add(ConsoleColor.Red);
-consoleColors.values.Add(ConsoleColor.Blue);
-consoleColors.values.Add(ConsoleColor.Yellow);
-consoleColors.values.Add(ConsoleColor.Green);
+Generic<ConsoleColor> consoleColors = new Generic<ConsoleColor>();
+consoleColors.Add(ConsoleColor.Red);
+consoleColors.Add(ConsoleColor.Blue);
+consoleColors.Add(ConsoleColor.Yellow);
+consoleColors.Add(ConsoleColor.Green);
 
 int maxCharactersPerName = 15;
 
