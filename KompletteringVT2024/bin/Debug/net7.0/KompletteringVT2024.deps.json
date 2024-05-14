@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "KompletteringVT2024/1.0.0": {
+        "runtime": {
+          "KompletteringVT2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KompletteringVT2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

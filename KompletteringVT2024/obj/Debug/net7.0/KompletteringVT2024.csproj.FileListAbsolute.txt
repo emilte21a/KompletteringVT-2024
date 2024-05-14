@@ -1,0 +1,14 @@
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\bin\Debug\net7.0\KompletteringVT2024.exe
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\bin\Debug\net7.0\KompletteringVT2024.deps.json
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\bin\Debug\net7.0\KompletteringVT2024.runtimeconfig.json
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\bin\Debug\net7.0\KompletteringVT2024.dll
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\bin\Debug\net7.0\KompletteringVT2024.pdb
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.AssemblyInfoInputs.cache
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.AssemblyInfo.cs
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.csproj.CoreCompileInputs.cache
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.dll
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\refint\KompletteringVT2024.dll
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.pdb
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\KompletteringVT2024.genruntimeconfig.cache
+C:\Users\emil.ulinjohansson\KompletteringVT-2024\KompletteringVT2024\obj\Debug\net7.0\ref\KompletteringVT2024.dll
